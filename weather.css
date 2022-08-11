@@ -1,0 +1,21 @@
+.weatherpic{
+    width: 66%;
+    height: 70%;
+}
+.left {
+    display: inline;
+    width: 70%;
+}
+.right{
+    float: right;
+    width: 30%;
+    height: 600px;
+    background-color: rgb(145 181 216);
+}
+.container {
+    width: 100%;
+}
+body{
+    background-image: url("weatherimages/lightning-storm.png");
+}
+
